@@ -7,3 +7,4 @@ test.py
 *_log.txt
 *.xlsx
 notes.txt
+.vscode
